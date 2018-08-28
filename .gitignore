@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.vscode
+
+*.diff
+*.err
+*.log
+*.vi
+*~
+
+chrome-user-data
+jsconfig.json
+node_modules
+npm-debug.log
