@@ -8,7 +8,6 @@
 *.vi
 *~
 
-chrome-user-data
 jsconfig.json
 node_modules
 npm-debug.log
