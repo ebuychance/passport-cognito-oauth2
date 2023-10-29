@@ -6,8 +6,8 @@
     "url": "https://github.com/ebuychance/passport-cognito-oauth2/issues"
   },
   "dependencies": {
-    "aws-sdk": "^2.303.0",
-    "passport-oauth2": "^1.4.0",
+    "@aws-sdk/client-cognito-identity-provider": "^3.435.0",
+    "passport-oauth2": "^1.7.0",
     "util": "^0.10.4"
   },
   "description": "Passport strategy for authenticating and fetching profile data from AWS Cognito User pools using OAuth2 and the Amazon SDK",
